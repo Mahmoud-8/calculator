@@ -2,7 +2,6 @@
 
 A simple calculator app built with React for basic arithmetic calculations.
 
-![Alt text](<Screenshot 2023-12-04 at 3.39.04 PM.png>)
 
 ## Tools Used
 
@@ -16,6 +15,8 @@ A simple calculator app built with React for basic arithmetic calculations.
 - Calculate square root (sqrt), square (x^2), and power of y (x^y).
 - Toggle positive/negative numbers with the '+/-' button.
 - Decimal point support for floating-point numbers.
+
+![Alt text](<Screenshot 2023-12-04 at 3.39.04 PM.png>)
 
 ## Getting Started
 
