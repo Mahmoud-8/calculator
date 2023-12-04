@@ -2,7 +2,7 @@
 
 A simple calculator app built with React for basic arithmetic calculations.
 
-![Alt text](<../Screenshot 2023-12-04 at 3.39.04 PM.png>)
+![Alt text](path/to/Screenshot%202023-12-04%20at%203.39.04%20PM.png)
 
 ## Tools Used
 
