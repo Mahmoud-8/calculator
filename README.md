@@ -7,6 +7,8 @@ A simple calculator app built with React for basic arithmetic calculations.
 
 ## Tools Used
 
+![Alt text](<../Screenshot 2023-12-04 at 3.39.04 PM.png>)
+
 - **React:** A JavaScript library for building user interfaces.
 - **Cypress:** An end-to-end testing framework for web applications.
 - **Jest and React Testing Library:** Used for unit testing React components.
